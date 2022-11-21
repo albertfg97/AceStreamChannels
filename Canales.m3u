@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
-#EXTINF:-1 tvg-id="LaLiga Tv Bar 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",LaLiga Tv Bar 1080
+#EXTINF:-1 tvg-id="LaLiga TV Bar HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="",LaLiga TV Bar HD
 acestream://01b333b9369c662775902638ef8cffac346a0f61
 #EXTINF:-1,LaLiga Tv Bar 720
 acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
