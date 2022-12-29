@@ -1,25 +1,27 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
 #EXTINF:-1 tvg-id="LaLiga TV Bar HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20TV%20Bar%20HD.png" group-title="",LaLiga TV Bar 1080
-acestream://01b333b9369c662775902638ef8cffac346a0f61
+acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 #EXTINF:-1 tvg-id="LaLiga TV Bar HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20TV%20Bar%20HD.png" group-title="",LaLiga TV Bar 720
 acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20LaLiga%20HD.png" group-title="",M+ LaLiga 1080 MultiAudio
-acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20LaLiga%20HD.png" group-title="",M+ LaLiga 1080 MultiAudio
+acestream://d47addf5e467cbf102ba759600303c21efb1deeb
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20LaLiga%20HD.png" group-title="",M+ LaLiga 1080
 acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/M%2B%20LaLiga%20HD.png" group-title="",M+ LaLiga 720
-acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
+acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="",DAZN LaLiga 1080 MultiAudio
-acestream://df98650743f24a245c44cdf2851e57078f4c487a
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="",DAZN LaLiga 1080 MultiAudio
-acestream://fee5612d57824b6e8db780f210ec54093056dc3a
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="",DAZN LaLiga 720
-acestream://c35d2207792128fc0ae49c40e885c463f664dbce
+acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" group-title="",DAZN LaLiga 2 1080 MultiAudio
-acestream://1124d4366348b76a755710c8d0d5728e39d0095c
+acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" group-title="",DAZN LaLiga 2 720 MultiAudio
-acestream://d83a3242e10ecffc31a16a02890de199a65dd8d9
+acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV " tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV%20HD.png" group-title="",LaLiga Smartbank 1080
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV " tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20SmartbankTV%20HD.png" group-title="",LaLiga Smartbank 720
