@@ -1,13 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
-#EXTINF:-1 tvg-id="M+ Supercopa HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Supercopa%20HD.png",SuperCopa 1080 MultiAudio
-acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
-#EXTINF:-1 tvg-id="M+ Supercopa HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Supercopa%20HD.png",SuperCopa 1080 MultiAudio
-acestream://c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
-#EXTINF:-1 tvg-id="M+ Supercopa HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Supercopa%20HD.png",SuperCopa 1080
-acestream://95d9967309d74d3dbd87c66cf374666bb9da9f07
-#EXTINF:-1 tvg-id="M+ Supercopa HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Supercopa%20HD.png",SuperCopa 720
-acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464
 #EXTINF:-1 tvg-id="LaLiga TV Bar HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20TV%20Bar%20HD.png",LaLiga TV Bar 1080
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 #EXTINF:-1 tvg-id="LaLiga TV Bar HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/LaLiga%20TV%20Bar%20HD.png",LaLiga TV Bar 720
