@@ -1,2 +1,3 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 #EXTINF:-1 group-title="TEST" tvg-id="TEST" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,TEST
 acestream://c367738691c63896679e523d4c1c7933729acc7b
